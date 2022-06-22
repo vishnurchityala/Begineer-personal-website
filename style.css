@@ -24,22 +24,16 @@ h3,h2{
     font-family: 'Pacifico', cursive;
     color:#001D6E;
 }
-li{
+li,td,th{
     font-size: 25px;
     font-family: 'Caveat', cursive;
 }
-td{
-    font-size:30px;
-    font-family: 'Caveat', cursive;
-}
+
 a{
     font-size: 30px;
     font-family: 'Permanent Marker', cursive;
 }
-th{
-    font-size:35px;
-    font-family: 'Chakra Petch', sans-serif;
-}
+
 img{
     height: 230px;
 }
