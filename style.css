@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Chakra+Petch:wght@300&family=Indie+Flower&family=Lobster&family=Pacifico&family=Permanent+Marker&family=Potta+One&family=Satisfy&display=swap');
+body{
+    background-color: #E8F9FD;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-top-color: #79DAE8;
+    width: 8%;
+    border-width: 5px;
+
+}
+h1{
+    font-size: 50px;
+    font-family: 'Lobster', cursive;
+    color: #2155CD;
+}
+p{
+    font-size: 35px;
+    color:#0AA1DD;
+}
+h3,h2{
+    font-size: 40px;
+    font-family: 'Pacifico', cursive;
+    color:#001D6E;
+}
+li{
+    font-size: 30px;
+    font-family: 'Caveat', cursive;
+}
+td{
+    font-size:30px;
+    font-family: 'Caveat', cursive;
+}
+a{
+    font-size: 30px;
+    font-family: 'Permanent Marker', cursive;
+}
+th{
+    font-size:35px;
+    font-family: 'Chakra Petch', sans-serif;
+}
+img{
+    height: 230px;
+}
+label{
+    font-size: 30px;
+    font-family: 'Satisfy', cursive;
+}
+h5{
+    color: #5B7DB1;
+    font-size: 23px;
+    font-family: 'Lobster', cursive;
+}
